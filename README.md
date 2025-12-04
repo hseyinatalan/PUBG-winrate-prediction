@@ -88,6 +88,7 @@ python app.py
 
 ## Repo Yapısı 
 
+```plaintext
 root/
 │
 ├── app/                 # Tahmin fonksiyonları ve arayüz ile ilgili kodlar burada
@@ -96,7 +97,7 @@ root/
 │
 ├── notebooks/           # Tüm Jupyter notebook dosyalarınız (EDA, feature engineering, model optimizasyon, değerlendirme, pipeline vb.)
 │
-├── LICENSE             # Lisans dosyası
+├── LICENSE              # Lisans dosyası
 │
-└── README.md           # Proje açıklamalarını içeren dosya
+└── README.md            # Proje açıklamalarını içeren dosya
 
