@@ -13,6 +13,9 @@ Ayrıca bu yüzdelik değer, maçtaki toplam oyuncu sayısına göre hesaplanan 
 
 https://huggingface.co/spaces/mhuseyina/PUBG_Prediction
 
+![Açıklayıcı Metin](Deploy Lİnk.gif)
+
+
 ## Veri Seti: PUBG Finish Placement Prediction
 
 https://www.kaggle.com/competitions/pubg-finish-placement-prediction/data
@@ -39,7 +42,7 @@ https://www.kaggle.com/competitions/pubg-finish-placement-prediction/data
 
 ##  Kullanılan Teknolojiler
 
-* **Python 3** — Tüm veri işleme, modelleme ve görselleştirme için ana programlama dili.
+* **Python 3.10** 
 * **Veri İşleme & Analiz:**
 
   * `pandas`, `numpy` — Veri manipülasyonu ve hesaplamalar
