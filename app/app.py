@@ -119,8 +119,9 @@ iface = gr.Interface(
     fn=predict_winplace,
     inputs=inputs,
     outputs=outputs,
-    title="PUBG WinPlacePerc Tahmin Aracı",
+    title="PUBG Kazanma Oranı Tahmin Aracı",
     description="Oyuncu istatistiklerine göre bitiş yüzdesini tahmin eder."
 )
+
 
 iface.launch()
