@@ -13,7 +13,7 @@ Ayrıca bu yüzdelik değer, maçtaki toplam oyuncu sayısına göre hesaplanan 
 
 https://huggingface.co/spaces/mhuseyina/PUBG_Prediction
 
-![Deploy Demo](./Deploy_link.gif)
+[Demo Videosu](./deploy_video.mp4)
 
 ## Veri Seti: PUBG Finish Placement Prediction
 
