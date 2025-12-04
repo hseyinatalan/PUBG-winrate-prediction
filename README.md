@@ -93,9 +93,9 @@ root/
 │
 ├── app/                 # Tahmin fonksiyonları ve arayüz ile ilgili kodlar burada
 │
-├── final-model/         # Eğitilmiş ve kaydedilmiş final model dosyaları
+├── final-model/         # Eğitilmiş ve kaydedilmiş final model dosyası
 │
-├── notebooks/           # Tüm Jupyter notebook dosyalarınız (EDA, feature engineering, model optimizasyon, değerlendirme, pipeline vb.)
+├── notebooks/           # Tüm Jupyter notebook dosyaları (EDA, feature engineering, model optimizasyon, pipeline vb.)
 │
 ├── LICENSE              # Lisans dosyası
 │
